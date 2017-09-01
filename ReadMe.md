@@ -4,7 +4,6 @@ adu003@ucr.edu
 Custom Lab Project - Alarm Clock
 
 Objective
-
 	The objective of the custom lab is to create a project with the techniques used in our previous labs so that we may learn to apply the learned techniques. In this case, our custom lab project was limited to three different given projects: Jukebox, Alarm Clock, and the game Simon. Below is my proposal for the lab project I decided to take on.
 
 Proposal
